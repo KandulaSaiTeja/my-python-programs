@@ -1,4 +1,4 @@
-x=5
+"""x=int(input())
 # right angle triangle
 print("right angle triangle")
 for i in range(x):
@@ -43,7 +43,16 @@ for i in range(x-1,0,-1):
         if j>i and j!=i:
               print("*",end="")
         
-    print()        
-    
-
-
+    print() """       
+# Numbers pattern
+x=5
+for i in range(1,x+1):
+    for j in range(1,i+1):
+        print(i,end="")
+    print()
+# Number pattern
+x=5
+for i in range(1,x+1):
+    for j in range(1,i+1):
+        print(j,end="")
+    print()    
