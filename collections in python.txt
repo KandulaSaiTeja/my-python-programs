@@ -1,0 +1,11 @@
+>> all the 9 (primitive + collections) discussed in the class
+
+> int
+> float
+> tuple
+> list
+> set
+> boolean
+> complex
+> string
+> Dictionary
